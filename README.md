@@ -27,6 +27,12 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me gusta tra
 - 📧 **Email**: [IngDevAFD@gmail.com](mailto:IngDevAFD@gmail.com)  
 - 💼 **LinkedIn**: [Andrés Felipe Duque David en LinkedIn](https://www.linkedin.com/in/andresfelipeduquedavid202ab8288)
 
+
+## :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 ---
 
 ¡Gracias por visitar mi perfil! Siéntete libre de explorar mis repositorios y no dudes en contactarme si quieres colaborar.
