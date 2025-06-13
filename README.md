@@ -29,9 +29,8 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me gusta tra
 
 
 ## :zap: Actividad reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last-update-->
 
 ---
 
