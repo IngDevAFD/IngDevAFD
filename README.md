@@ -30,11 +30,11 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me gusta tra
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [IngDevAFD/miPrimerRepo](https://github.com/IngDevAFD/miPrimerRepo)<br>
-2. 🎉 Merged PR [#6](https://github.com/IngDevAFD/miPrimerRepo/pull/6) in [IngDevAFD/miPrimerRepo](https://github.com/IngDevAFD/miPrimerRepo)<br>
-3. ⬆️ Pushed 2 commit(s) to [IngDevAFD/miPrimerRepo](https://github.com/IngDevAFD/miPrimerRepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [IngDevAFD/miPrimerRepo](https://github.com/IngDevAFD/miPrimerRepo)<br>
-5. ⬆️ Pushed 1 commit(s) to [IngDevAFD/miPrimerRepo](https://github.com/IngDevAFD/miPrimerRepo)<br>
+1. ✔️ Closed issue [#1](https://github.com/IngDevAFD/miCuartoRepo/issues/1) in [IngDevAFD/miCuartoRepo](https://github.com/IngDevAFD/miCuartoRepo)<br>
+2. ❗️ Opened issue [#1](https://github.com/IngDevAFD/miCuartoRepo/issues/1) in [IngDevAFD/miCuartoRepo](https://github.com/IngDevAFD/miCuartoRepo)<br>
+3. 📔 Created new repository [IngDevAFD/miCuartoRepo](https://github.com/IngDevAFD/miCuartoRepo)<br>
+4. 📔 Created new repository [IngDevAFD/miTercerRepo](https://github.com/IngDevAFD/miTercerRepo)<br>
+5. ⬆️ Pushed 1 commit(s) to [IngDevAFD/IngDevAFD](https://github.com/IngDevAFD/IngDevAFD)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last-update-->
 
