@@ -33,8 +33,6 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me gusta tra
 1. ✌️ Released [v0.1.0](https://github.com/IngDevAFD/tercerRepo/releases/tag/v0.1.0) in [IngDevAFD/tercerRepo](https://github.com/IngDevAFD/tercerRepo)<br>
 2. ⬆️ Pushed 1 commit(s) to [IngDevAFD/tercerRepo](https://github.com/IngDevAFD/tercerRepo)<br>
 3. 📔 Created new repository [IngDevAFD/tercerRepo](https://github.com/IngDevAFD/tercerRepo)<br>
-4. ⬆️ Pushed 3 commit(s) to [IngDevAFD/miCuartoRepo](https://github.com/IngDevAFD/miCuartoRepo)<br>
-5. 🎉 Merged PR [#2](https://github.com/IngDevAFD/miCuartoRepo/pull/2) in [IngDevAFD/miCuartoRepo](https://github.com/IngDevAFD/miCuartoRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last-update-->
 
