@@ -30,9 +30,6 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me gusta tra
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. ✌️ Released [v0.1.0](https://github.com/IngDevAFD/tercerRepo/releases/tag/v0.1.0) in [IngDevAFD/tercerRepo](https://github.com/IngDevAFD/tercerRepo)<br>
-2. ⬆️ Pushed 1 commit(s) to [IngDevAFD/tercerRepo](https://github.com/IngDevAFD/tercerRepo)<br>
-3. 📔 Created new repository [IngDevAFD/tercerRepo](https://github.com/IngDevAFD/tercerRepo)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last-update-->
 
