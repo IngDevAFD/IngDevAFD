@@ -30,7 +30,6 @@ Aquí tienes algunas de las herramientas y tecnologías con las que me gusta tra
 
 ## :zap: Actividad reciente
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [IngDevAFD/LINUX-BASICS-FOR-HACKERS-Book](https://github.com/IngDevAFD/LINUX-BASICS-FOR-HACKERS-Book) from [FADL285/LINUX-BASICS-FOR-HACKERS-Book](https://github.com/FADL285/LINUX-BASICS-FOR-HACKERS-Book)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last-update-->
 
